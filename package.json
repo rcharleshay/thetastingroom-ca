@@ -1,6 +1,7 @@
 {
   "name": "app",
   "license": "UNLICENCED",
+  "version": "1.0.0",
   "scripts": {
     "build": "react-scripts build",
     "dev": "react-scripts start",
