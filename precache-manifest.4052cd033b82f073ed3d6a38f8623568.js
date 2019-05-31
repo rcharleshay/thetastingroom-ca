@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "98443b2f9c4bd3c86ab10f514ab4b585",
+    "revision": "84ccf6dfcdf96b93652263006bf77223",
     "url": "/thetastingroom.ca/index.html"
   },
   {
@@ -8,8 +8,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/thetastingroom.ca/static/js/2.497ac1e8.chunk.js"
   },
   {
-    "revision": "5f014472c923637dcefc",
-    "url": "/thetastingroom.ca/static/js/main.387143f5.chunk.js"
+    "revision": "3abfd47b80fadfe859d7",
+    "url": "/thetastingroom.ca/static/js/main.e3c41908.chunk.js"
   },
   {
     "revision": "ce6ac65afd8446dd2315",
