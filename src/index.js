@@ -8,7 +8,7 @@ import GlobalStyle from 'assets/styles/GlobalStyle.styled'
 
 ReactDOM.render(
   <Provider store={store}>
-    <BrowserRouter>
+    <BrowserRouter basename={process.env.PUBLIC_URL}>
       <GlobalStyle />
       <Routes />
     </BrowserRouter>
