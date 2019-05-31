@@ -2,13 +2,16 @@
   "name": "app",
   "license": "UNLICENCED",
   "version": "1.0.0",
+  "homepage": "https://thedevenvironment.github.io/thetastingroom.ca",
   "scripts": {
     "build": "react-scripts build",
+    "deploy": "gh-pages -d build",
     "dev": "react-scripts start",
     "lint": "eslint ./src",
     "test": "react-scripts test --env=jsdom"
   },
   "dependencies": {
+    "gh-pages": "^2.0.1",
     "prop-types": "15.7.2",
     "react": "16.8.6",
     "react-dom": "16.8.6",
