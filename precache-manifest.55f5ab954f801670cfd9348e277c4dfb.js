@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "cd2e63f438993c6fabebc78b483a2fe5",
+    "revision": "6ae8c50bb177fcedad70b2ec9f9dcdae",
     "url": "/thetastingroom.ca/index.html"
   },
   {

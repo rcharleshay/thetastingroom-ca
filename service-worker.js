@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/thetastingroom.ca/precache-manifest.ca00ddbb20341bfd77e02815c31ced61.js"
+  "/thetastingroom.ca/precache-manifest.55f5ab954f801670cfd9348e277c4dfb.js"
 );
 
 self.addEventListener('message', (event) => {
