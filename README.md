@@ -1,5 +1,5 @@
 ---
-# SiteBuilder | Quickstart a react website.
+# thetastingroom.ca
 ---
 
 ### TABLE OF CONTENTS
@@ -15,7 +15,7 @@
 ### Clone Repo.
 
 ```
-git clone https://github.com/thedevenvironment/SiteBuilder
+git clone https://github.com/thedevenvironment/thetastingroom.ca.git
 ```
 
 ### Install Node Modules
