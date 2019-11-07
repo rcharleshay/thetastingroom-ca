@@ -1,4 +1,4 @@
-import cocogoose from 'assets/fonts/cocogoose.ttf'
+import cocogoose from '../fonts/cocogoose.ttf'
 
 const Base = `
 @font-face {

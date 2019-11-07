@@ -1,6 +1,6 @@
 {
-  "short_name": "Tasting Room",
-  "name": "The Tasting Room",
+  "short_name": "Stef Boc",
+  "name": "Stef Boc",
   "icons": [
     {
       "src": "%PUBLIC_URL%/favicon/favicon.ico",

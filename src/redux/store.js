@@ -23,7 +23,7 @@ function reducer(state = initialState, action) {
     case TOGGLE_LOADING:
       return {
         ...state,
-        loading: state.loading ? false : true
+        loading: state.loading
       }
     default:
       return state

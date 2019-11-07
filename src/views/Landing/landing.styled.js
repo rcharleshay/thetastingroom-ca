@@ -32,16 +32,18 @@ export const BannerImage = styled.img`
 export const LogoCircle = styled.div`
   position: relative;
   background-color: rgba(0, 0, 0, 0.9);
-  width: 30%;
-  padding-top: 30%;
+  width: 25%;
+  padding-top: 25%;
   border-radius: 50%;
-  margin-top: -15%;
+  margin-top: -12.5%;
 `
 export const LogoImage = styled.img`
   position: absolute;
-  width: 90%;
-  top: 25%;
-  left: 5%;
+  width: 100%;
+  top: 0%;
+  left: 0%;
+  border-radius: 50%;
+  border: 10px solid #000;
 `
 
 /********************************
@@ -162,7 +164,9 @@ export const FoodMenuTitleLine = styled.div`
 export const FoodMenuParagraph = styled.div`
   width: 100%;
   max-width: 550px;
-
+  display: flex;
+  flex-direction: column;
+  align-items: center;
   @media (max-width: 650px) {
     max-width: 350px;
   }
@@ -174,6 +178,7 @@ export const FoodMenuParagraphText = styled.div`
   line-height: 2rem;
   text-align: center;
   color: #fff;
+  margin-bottom: 1rem;
 
   @media (max-width: 650px) {
     font-size: 0.8rem;

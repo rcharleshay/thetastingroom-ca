@@ -1,6 +1,6 @@
 import React from 'react'
 import { withRouter, Switch, Route } from 'react-router-dom'
-import Landing from 'views/Landing/Landing'
+import Landing from '../views/Landing/Landing'
 
 function router() {
   return (
